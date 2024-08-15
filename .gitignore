@@ -1,4 +1,4 @@
-movienv/
+movenv/
 similarity.pkl/
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -128,7 +128,7 @@ celerybeat.pid
 .env
 .venv
 env/
-movienv/
+movenv/
 venv/
 ENV/
 env.bak/
